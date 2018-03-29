@@ -1,0 +1,117 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+ <meta name="description" content="">
+ <meta name="author" content="">
+
+ <title>Mon Coffre Fort Numérique</title>
+ <!-- Bootstrap Core CSS -->
+ <link href="{{ url_for('static', filename='./css/bootstrap.min.css') }}" rel="stylesheet">
+ <!-- Custom Fonts -->
+ <link href="{{ url_for('static', filename='./font-awesome/css/font-awesome.min.css') }}" rel="stylesheet" type="text/css">
+ <!-- Custom styles for this template -->
+ <link href="{{ url_for('static', filename='./css/custom.css') }}" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+</head>
+
+<body>
+	<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+		<a class="navbar-brand" href="/rooms">Coffre Fort CF</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarsExampleDefault">
+			<ul class="navbar-nav mr-auto">
+				<li class="nav-item active">
+					<a class="nav-link" href="/coffre">Coffre Fort<span class="sr-only">(current)</span></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="/contact">Contact</a>
+				</li>
+				<li>
+					<button class="btn btn-primary update-btn"><i class="fa fa-refresh" aria-hidden="true"></i></button>
+				</li>
+			</ul>
+			<ul class="nav navbar-nav navbar-right">
+				<li>
+					<a href='/logout'><button class="btn btn-primary logout-btn"><i class="fa fa-sign-out" aria-hidden="true"></i></button></a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+
+<main role="main" class="container">
+	<div class="starter-template">
+		<div class="container">
+			<div id="files" class="row">
+				<p><h1>ENVOYER LE FICHIER A CHIFFRER</h1></p>
+				<form action = "/uploader" method = "POST" enctype = "multipart/form-data">
+					<input type = "file" name = "file" />
+					<input type = "submit"/>
+
+				</form>
+			</div>
+			<div id="files" class="row">
+				<p><h1>RECUP FILE CHIFFRE</h1></p>
+				<form action = "/getter" method="POST">
+					<input name="text">
+					<input type="submit">
+				</form>
+			</div>
+		</div>
+	</div>
+
+</main><!-- /.container -->
+  <!-- jQuery -->
+  <script src="{{ url_for('static', filename='js/jquery.js') }}"></script>
+  <!-- Bootstrap Core JavaScript -->
+  <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+  <script type="text/javascript">
+$(function(){
+
+	$(".update-btn").click(function(){
+		$.ajax({
+			url: "/",
+		});
+	});
+
+	/*$(".custom-btn").click(function(){
+		var salle=$(this).find(':nth-child(1)').text();
+		var piip=$(this).find(':nth-child(3)').text();
+		var state=$(this).find(':nth-child(4)').text();
+		var data=[];
+		data.push(piip);
+		data.push(salle);
+		data.push(state);
+		for(var i=0; i<data.length; i++) {
+			console.log(data[i]);			
+    			//Do something
+		}
+		$.ajax({
+			type: "POST",
+			url: "/reboot",
+			data: { salle:salle, ip:piip,state:state }
+		});
+	});*/
+});
+
+  </script>
+</body>
+</html>
+
+

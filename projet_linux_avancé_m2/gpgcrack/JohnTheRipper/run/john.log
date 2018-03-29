@@ -1,0 +1,1328 @@
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe testhash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:00 + Cracked ?
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 999 password hashes with 999 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:04 + Cracked ?
+0:00:00:09 + Cracked ?
+0:00:00:13 + Cracked ?
+0:00:00:18 + Cracked ?
+0:00:00:23 + Cracked ?
+0:00:00:27 + Cracked ?
+0:00:00:32 + Cracked ?
+0:00:00:36 + Cracked ?
+0:00:00:41 + Cracked ?
+0:00:00:46 + Cracked ?
+0:00:00:52 + Cracked ?
+0:00:00:57 + Cracked ?
+0:00:01:02 + Cracked ?
+0:00:01:07 + Cracked ?
+0:00:01:12 + Cracked ?
+0:00:01:17 + Cracked ?
+0:00:01:22 + Cracked ?
+0:00:01:27 + Cracked ?
+0:00:01:32 + Cracked ?
+0:00:01:37 + Cracked ?
+0:00:01:42 + Cracked ?
+0:00:01:47 + Cracked ?
+0:00:01:53 + Cracked ?
+0:00:01:58 + Cracked ?
+0:00:02:03 + Cracked ?
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 975 password hashes with 975 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 975 password hashes with 975 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:04 + Cracked ?
+0:00:00:09 + Cracked ?
+0:00:00:13 + Cracked ?
+0:00:00:18 + Cracked ?
+0:00:00:23 + Cracked ?
+0:00:00:28 + Cracked ?
+0:00:00:33 + Cracked ?
+0:00:00:38 + Cracked ?
+0:00:00:43 + Cracked ?
+0:00:00:48 + Cracked ?
+0:00:00:53 + Cracked ?
+0:00:00:58 + Cracked ?
+0:00:01:03 + Cracked ?
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 962 password hashes with 962 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 962 password hashes with 962 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:04 + Cracked ?
+0:00:00:09 + Cracked ?
+0:00:00:13 + Cracked ?
+0:00:00:18 + Cracked ?
+0:00:00:23 + Cracked ?
+0:00:00:27 + Cracked ?
+0:00:00:32 + Cracked ?
+0:00:00:37 + Cracked ?
+0:00:00:42 + Cracked ?
+0:00:00:47 + Cracked ?
+0:00:00:52 + Cracked ?
+0:00:00:58 + Cracked ?
+0:00:01:03 + Cracked ?
+0:00:01:09 + Cracked ?
+0:00:01:14 + Cracked ?
+0:00:01:20 + Cracked ?
+0:00:01:26 + Cracked ?
+0:00:01:32 + Cracked ?
+0:00:01:37 + Cracked ?
+0:00:01:42 + Cracked ?
+0:00:01:47 + Cracked ?
+0:00:01:52 + Cracked ?
+0:00:01:58 + Cracked ?
+0:00:02:03 + Cracked ?
+0:00:02:08 + Cracked ?
+0:00:02:13 + Cracked ?
+0:00:02:19 + Cracked ?
+0:00:02:24 + Cracked ?
+0:00:02:29 + Cracked ?
+0:00:02:34 + Cracked ?
+0:00:02:39 + Cracked ?
+0:00:02:45 + Cracked ?
+0:00:02:50 + Cracked ?
+0:00:02:55 + Cracked ?
+0:00:03:00 + Cracked ?
+0:00:03:05 + Cracked ?
+0:00:03:10 + Cracked ?
+0:00:03:16 + Cracked ?
+0:00:03:21 + Cracked ?
+0:00:03:26 + Cracked ?
+0:00:03:31 + Cracked ?
+0:00:03:36 + Cracked ?
+0:00:03:41 + Cracked ?
+0:00:03:46 + Cracked ?
+0:00:03:51 + Cracked ?
+0:00:03:56 + Cracked ?
+0:00:04:01 + Cracked ?
+0:00:04:06 + Cracked ?
+0:00:04:11 + Cracked ?
+0:00:04:16 + Cracked ?
+0:00:04:21 + Cracked ?
+0:00:04:27 + Cracked ?
+0:00:04:32 + Cracked ?
+0:00:04:37 + Cracked ?
+0:00:04:42 + Cracked ?
+0:00:04:47 + Cracked ?
+0:00:04:52 + Cracked ?
+0:00:04:57 + Cracked ?
+0:00:05:02 + Cracked ?
+0:00:05:07 + Cracked ?
+0:00:05:12 + Cracked ?
+0:00:05:17 + Cracked ?
+0:00:05:22 + Cracked ?
+0:00:05:28 + Cracked ?
+0:00:05:33 + Cracked ?
+0:00:05:38 + Cracked ?
+0:00:05:44 + Cracked ?
+0:00:05:49 + Cracked ?
+0:00:05:54 + Cracked ?
+0:00:05:59 + Cracked ?
+0:00:06:04 + Cracked ?
+0:00:06:10 + Cracked ?
+0:00:06:15 + Cracked ?
+0:00:06:20 + Cracked ?
+0:00:06:25 + Cracked ?
+0:00:06:30 + Cracked ?
+0:00:06:36 + Cracked ?
+0:00:06:41 + Cracked ?
+0:00:06:46 + Cracked ?
+0:00:06:51 + Cracked ?
+0:00:06:56 + Cracked ?
+0:00:07:01 + Cracked ?
+0:00:07:07 + Cracked ?
+0:00:07:12 + Cracked ?
+0:00:07:17 + Cracked ?
+0:00:07:22 + Cracked ?
+0:00:07:27 + Cracked ?
+0:00:07:32 + Cracked ?
+0:00:07:38 + Cracked ?
+0:00:07:43 + Cracked ?
+0:00:07:48 + Cracked ?
+0:00:07:53 + Cracked ?
+0:00:07:58 + Cracked ?
+0:00:08:04 + Cracked ?
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 868 password hashes with 868 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:04 + Cracked ?
+0:00:00:09 + Cracked ?
+0:00:00:13 + Cracked ?
+0:00:00:19 + Cracked ?
+0:00:00:24 + Cracked ?
+0:00:00:29 + Cracked ?
+0:00:00:34 + Cracked ?
+0:00:00:39 + Cracked ?
+0:00:00:45 + Cracked ?
+0:00:00:50 + Cracked ?
+0:00:00:55 + Cracked ?
+0:00:01:01 + Cracked ?
+0:00:01:06 + Cracked ?
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 855 password hashes with 855 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:45 Session aborted
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:04 + Cracked ?
+0:00:00:09 + Cracked ?
+0:00:00:13 + Cracked ?
+0:00:00:18 + Cracked ?
+0:00:00:23 + Cracked ?
+0:00:00:27 + Cracked ?
+0:00:00:32 + Cracked ?
+0:00:00:38 + Cracked ?
+0:00:00:43 + Cracked ?
+0:00:00:48 + Cracked ?
+0:00:00:53 + Cracked ?
+0:00:00:59 + Cracked ?
+0:00:01:04 + Cracked ?
+0:00:01:09 + Cracked ?
+0:00:01:14 + Cracked ?
+0:00:01:19 + Cracked ?
+0:00:01:24 + Cracked ?
+0:00:01:29 + Cracked ?
+0:00:01:35 + Cracked ?
+0:00:01:40 + Cracked ?
+0:00:01:45 + Cracked ?
+0:00:01:50 + Cracked ?
+0:00:01:55 + Cracked ?
+0:00:02:01 + Cracked ?
+0:00:02:06 + Cracked ?
+0:00:02:11 + Cracked ?
+0:00:02:16 + Cracked ?
+0:00:02:22 + Cracked ?
+0:00:02:27 + Cracked ?
+0:00:02:32 + Cracked ?
+0:00:02:37 + Cracked ?
+0:00:02:42 + Cracked ?
+0:00:02:48 + Cracked ?
+0:00:02:53 + Cracked ?
+0:00:02:58 + Cracked ?
+0:00:03:03 + Cracked ?
+0:00:03:08 + Cracked ?
+0:00:03:13 + Cracked ?
+0:00:03:19 + Cracked ?
+0:00:03:24 + Cracked ?
+0:00:03:29 + Cracked ?
+0:00:03:34 + Cracked ?
+0:00:03:39 + Cracked ?
+0:00:03:45 + Cracked ?
+0:00:03:50 + Cracked ?
+0:00:03:55 + Cracked ?
+0:00:04:00 + Cracked ?
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 953 password hashes with 953 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:04 + Cracked ?
+0:00:00:09 + Cracked ?
+0:00:00:14 + Cracked ?
+0:00:00:18 + Cracked ?
+0:00:00:23 + Cracked ?
+0:00:00:28 + Cracked ?
+0:00:00:32 + Cracked ?
+0:00:00:37 + Cracked ?
+0:00:00:43 + Cracked ?
+0:00:00:48 + Cracked ?
+0:00:00:53 + Cracked ?
+0:00:00:59 + Cracked ?
+0:00:01:04 + Cracked ?
+0:00:01:10 + Cracked ?
+0:00:01:15 + Cracked ?
+0:00:01:21 + Cracked ?
+0:00:01:26 + Cracked ?
+0:00:01:31 + Cracked ?
+0:00:01:37 + Cracked ?
+0:00:01:43 + Cracked ?
+0:00:01:48 + Cracked ?
+0:00:01:54 + Cracked ?
+0:00:01:59 + Cracked ?
+0:00:02:06 + Cracked ?
+0:00:02:12 + Cracked ?
+0:00:02:18 + Cracked ?
+0:00:02:23 + Cracked ?
+0:00:02:29 + Cracked ?
+0:00:02:36 + Cracked ?
+0:00:02:43 + Cracked ?
+0:00:02:49 + Cracked ?
+0:00:02:54 + Cracked ?
+0:00:02:59 + Cracked ?
+0:00:03:04 + Cracked ?
+0:00:03:09 + Cracked ?
+0:00:03:15 + Cracked ?
+0:00:03:20 + Cracked ?
+0:00:03:26 + Cracked ?
+0:00:03:31 + Cracked ?
+0:00:03:37 + Cracked ?
+0:00:03:42 + Cracked ?
+0:00:03:47 + Cracked ?
+0:00:03:52 + Cracked ?
+0:00:03:57 + Cracked ?
+0:00:04:04 + Cracked ?
+0:00:04:09 + Cracked ?
+0:00:04:14 + Cracked ?
+0:00:04:19 + Cracked ?
+0:00:04:25 + Cracked ?
+0:00:04:30 + Cracked ?
+0:00:04:35 + Cracked ?
+0:00:04:41 + Cracked ?
+0:00:04:47 + Cracked ?
+0:00:04:53 + Cracked ?
+0:00:04:58 + Cracked ?
+0:00:05:04 + Cracked ?
+0:00:05:10 + Cracked ?
+0:00:05:18 + Cracked ?
+0:00:05:25 + Cracked ?
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:04 + Cracked ?
+0:00:00:09 + Cracked ?
+0:00:00:13 + Cracked ?
+0:00:00:18 + Cracked ?
+0:00:00:23 + Cracked ?
+0:00:00:27 + Cracked ?
+0:00:00:32 + Cracked ?
+0:00:00:37 + Cracked ?
+0:00:00:42 + Cracked ?
+0:00:00:47 + Cracked ?
+0:00:00:52 + Cracked ?
+0:00:00:57 + Cracked ?
+0:00:01:02 + Cracked ?
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 987 password hashes with 987 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 987 password hashes with 987 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:04 + Cracked ?
+0:00:00:09 + Cracked ?
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 985 password hashes with 985 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:04 + Cracked ?
+0:00:00:09 + Cracked ?
+0:00:00:13 + Cracked ?
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 982 password hashes with 982 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:04 + Cracked ?
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 981 password hashes with 981 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:04 + Cracked ?
+0:00:00:09 + Cracked ?
+0:00:00:13 + Cracked ?
+0:00:00:18 + Cracked ?
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 977 password hashes with 977 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 977 password hashes with 977 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 977 password hashes with 977 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 977 password hashes with 977 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 977 password hashes with 977 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 977 password hashes with 977 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 977 password hashes with 977 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 977 password hashes with 977 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 977 password hashes with 977 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 977 password hashes with 977 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:04 + Cracked ?
+0:00:00:09 + Cracked ?
+0:00:00:14 + Cracked ?
+0:00:00:19 + Cracked ?
+0:00:00:24 + Cracked ?
+0:00:00:29 + Cracked ?
+0:00:00:34 + Cracked ?
+0:00:00:40 + Cracked ?
+0:00:00:46 + Cracked ?
+0:00:00:51 + Cracked ?
+0:00:00:56 + Cracked ?
+0:00:01:02 + Cracked ?
+0:00:01:07 + Cracked ?
+0:00:01:13 + Cracked ?
+0:00:01:18 + Cracked ?
+0:00:01:24 + Cracked ?
+0:00:01:29 + Cracked ?
+0:00:01:35 + Cracked ?
+0:00:01:40 + Cracked ?
+0:00:01:46 + Cracked ?
+0:00:01:51 + Cracked ?
+0:00:01:57 + Cracked ?
+0:00:02:02 + Cracked ?
+0:00:02:08 + Cracked ?
+0:00:02:13 + Cracked ?
+0:00:02:19 + Cracked ?
+0:00:02:24 + Cracked ?
+0:00:02:29 + Cracked ?
+0:00:02:35 + Cracked ?
+0:00:02:40 + Cracked ?
+0:00:02:46 + Cracked ?
+0:00:02:51 + Cracked ?
+0:00:02:57 + Cracked ?
+0:00:03:02 + Cracked ?
+0:00:03:08 + Cracked ?
+0:00:03:13 + Cracked ?
+0:00:03:19 + Cracked ?
+0:00:03:24 + Cracked ?
+0:00:03:30 + Cracked ?
+0:00:03:35 + Cracked ?
+0:00:03:41 + Cracked ?
+0:00:03:46 + Cracked ?
+0:00:03:52 + Cracked ?
+0:00:03:57 + Cracked ?
+0:00:04:03 + Cracked ?
+0:00:04:08 + Cracked ?
+0:00:04:14 + Cracked ?
+0:00:04:19 + Cracked ?
+0:00:04:25 + Cracked ?
+0:00:04:30 + Cracked ?
+0:00:04:36 + Cracked ?
+0:00:04:41 + Cracked ?
+0:00:04:47 + Cracked ?
+0:00:04:52 + Cracked ?
+0:00:04:58 + Cracked ?
+0:00:05:03 + Cracked ?
+0:00:05:09 + Cracked ?
+0:00:05:14 + Cracked ?
+0:00:05:20 + Cracked ?
+0:00:05:25 + Cracked ?
+0:00:05:31 + Cracked ?
+0:00:05:36 + Cracked ?
+0:00:05:42 + Cracked ?
+0:00:05:48 + Cracked ?
+0:00:05:53 + Cracked ?
+0:00:05:58 + Cracked ?
+0:00:06:04 + Cracked ?
+0:00:06:09 + Cracked ?
+0:00:06:15 + Cracked ?
+0:00:06:20 + Cracked ?
+0:00:06:26 + Cracked ?
+0:00:06:31 + Cracked ?
+0:00:06:37 + Cracked ?
+0:00:06:43 + Cracked ?
+0:00:06:48 + Cracked ?
+0:00:06:54 + Cracked ?
+0:00:06:59 + Cracked ?
+0:00:07:05 + Cracked ?
+0:00:07:10 + Cracked ?
+0:00:07:16 + Cracked ?
+0:00:07:21 + Cracked ?
+0:00:07:27 + Cracked ?
+0:00:07:32 + Cracked ?
+0:00:07:38 + Cracked ?
+0:00:07:43 + Cracked ?
+0:00:07:49 + Cracked ?
+0:00:07:54 + Cracked ?
+0:00:08:00 + Cracked ?
+0:00:08:06 + Cracked ?
+0:00:08:11 + Cracked ?
+0:00:08:16 + Cracked ?
+0:00:08:22 + Cracked ?
+0:00:08:27 + Cracked ?
+0:00:08:33 + Cracked ?
+0:00:08:38 + Cracked ?
+0:00:08:44 + Cracked ?
+0:00:08:50 + Cracked ?
+0:00:08:55 + Cracked ?
+0:00:09:01 + Cracked ?
+0:00:09:06 + Cracked ?
+0:00:09:11 + Cracked ?
+0:00:09:17 + Cracked ?
+0:00:09:22 + Cracked ?
+0:00:09:28 + Cracked ?
+0:00:09:33 + Cracked ?
+0:00:09:39 + Cracked ?
+0:00:09:44 + Cracked ?
+0:00:09:50 + Cracked ?
+0:00:09:55 + Cracked ?
+0:00:10:01 + Cracked ?
+0:00:10:06 + Cracked ?
+0:00:10:12 + Cracked ?
+0:00:10:17 + Cracked ?
+0:00:10:23 + Cracked ?
+0:00:10:28 + Cracked ?
+0:00:10:34 + Cracked ?
+0:00:10:39 + Cracked ?
+0:00:10:45 + Cracked ?
+0:00:10:51 + Cracked ?
+0:00:10:57 + Cracked ?
+0:00:11:02 + Cracked ?
+0:00:11:08 + Cracked ?
+0:00:11:47 Session aborted
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 855 password hashes with 855 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - No word mangling rules
+0:00:00:04 + Cracked ?
+0:00:00:09 + Cracked ?
+0:00:00:14 + Cracked ?
+0:00:00:18 + Cracked ?
+0:00:00:24 + Cracked ?
+0:00:00:29 + Cracked ?
+0:00:00:35 + Cracked ?
+0:00:00:40 + Cracked ?
+0:00:00:45 + Cracked ?
+0:00:00:51 + Cracked ?
+0:00:00:56 + Cracked ?
+0:00:01:01 + Cracked ?
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 988 password hashes with 988 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Remaining 988 password hashes with 988 different salts
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:05 + Cracked ?
+0:00:00:10 + Cracked ?
+0:00:00:15 + Cracked ?
+0:00:00:20 + Cracked ?
+0:00:00:25 + Cracked ?
+0:00:00:30 + Cracked ?
+0:00:00:35 + Cracked ?
+0:00:00:40 + Cracked ?
+0:00:00:46 + Cracked ?
+0:00:00:51 + Cracked ?
+0:00:00:56 + Cracked ?
+0:00:01:01 + Cracked ?
+0:00:01:07 + Cracked ?
+0:00:01:12 + Cracked ?
+0:00:01:17 + Cracked ?
+0:00:01:22 + Cracked ?
+0:00:01:27 + Cracked ?
+0:00:01:33 + Cracked ?
+0:00:01:38 + Cracked ?
+0:00:01:43 + Cracked ?
+0:00:01:48 + Cracked ?
+0:00:01:53 + Cracked ?
+0:00:01:59 + Cracked ?
+0:00:02:04 + Cracked ?
+0:00:02:09 + Cracked ?
+0:00:02:14 + Cracked ?
+0:00:02:19 + Cracked ?
+0:00:02:24 + Cracked ?
+0:00:02:30 + Cracked ?
+0:00:02:35 + Cracked ?
+0:00:02:40 + Cracked ?
+0:00:02:45 + Cracked ?
+0:00:02:50 + Cracked ?
+0:00:02:56 + Cracked ?
+0:00:03:01 + Cracked ?
+0:00:03:06 + Cracked ?
+0:00:03:11 + Cracked ?
+0:00:03:16 + Cracked ?
+0:00:03:22 + Cracked ?
+0:00:03:27 + Cracked ?
+0:00:03:32 + Cracked ?
+0:00:03:37 + Cracked ?
+0:00:03:42 + Cracked ?
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1000 password hashes with 1000 different salts
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 Cost 1 (s2k-count) is 33554432 for all loaded hashes
+0:00:00:00 Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+0:00:00:00 Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 7 for all loaded hashes
+0:00:00:00 Command line: ./JohnTheRipper/run/john --pipe hashes --pot=hashes.pot 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: gpg, OpenPGP / GnuPG Secret Key (min-len 0, max-len 41 [worst case UTF-8] to 125 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 256
+0:00:00:00 - Will reject candidates longer than 125 bytes
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - No word mangling rules
+0:00:00:05 + Cracked ?
+0:00:00:10 + Cracked ?
+0:00:00:15 + Cracked ?
+0:00:00:20 + Cracked ?
+0:00:00:25 + Cracked ?
+0:00:00:30 + Cracked ?
+0:00:00:35 + Cracked ?
+0:00:00:41 + Cracked ?
+0:00:00:46 + Cracked ?
+0:00:00:51 + Cracked ?
+0:00:00:56 + Cracked ?
+0:00:01:01 + Cracked ?
+0:00:01:06 + Cracked ?
+0:00:01:11 + Cracked ?
+0:00:01:17 + Cracked ?
+0:00:01:22 + Cracked ?
+0:00:01:27 + Cracked ?
+0:00:01:32 + Cracked ?
+0:00:01:37 + Cracked ?
+0:00:01:42 + Cracked ?
+0:00:01:47 + Cracked ?
+0:00:01:52 + Cracked ?
+0:00:01:58 + Cracked ?
+0:00:02:03 + Cracked ?
+0:00:02:08 + Cracked ?
+0:00:02:13 + Cracked ?
+0:00:02:18 + Cracked ?
+0:00:02:23 + Cracked ?
+0:00:02:28 + Cracked ?
+0:00:02:34 + Cracked ?
+0:00:02:39 + Cracked ?
+0:00:02:44 + Cracked ?
+0:00:02:49 + Cracked ?
+0:00:02:54 + Cracked ?
+0:00:02:59 + Cracked ?
+0:00:03:05 + Cracked ?
+0:00:03:10 + Cracked ?
+0:00:03:15 + Cracked ?
+0:00:03:20 + Cracked ?
+0:00:03:25 + Cracked ?
+0:00:03:31 + Cracked ?
+0:00:03:36 + Cracked ?
+0:00:03:41 + Cracked ?
+0:00:03:46 + Cracked ?
+0:00:03:51 + Cracked ?
+0:00:03:56 + Cracked ?
+0:00:04:02 + Cracked ?
+0:00:04:07 + Cracked ?
+0:00:04:12 + Cracked ?
+0:00:04:17 + Cracked ?
+0:00:04:22 + Cracked ?
+0:00:04:27 + Cracked ?
+0:00:04:33 + Cracked ?
+0:00:04:38 + Cracked ?
+0:00:04:43 + Cracked ?
+0:00:04:48 + Cracked ?
+0:00:04:53 + Cracked ?
+0:00:04:58 + Cracked ?
+0:00:05:04 + Cracked ?
+0:00:05:09 + Cracked ?

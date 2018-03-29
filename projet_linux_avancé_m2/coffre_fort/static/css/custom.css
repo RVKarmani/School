@@ -1,0 +1,15 @@
+body {
+	background-color:grey;
+}
+.starter-template{
+	margin-top:20%;
+}
+.special-btn {
+	margin-bottom:5%;
+}
+.secret{
+	position:absolute;
+	right:0px;
+	width:1%;
+	height:1%;
+}
